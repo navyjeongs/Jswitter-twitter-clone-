@@ -1,4 +1,4 @@
-# JSwitter(Twitter-Clone)
+# Jswitter(Twitter-Clone)
 
 <h3>React와 FireBase를 이용한 트위터 클론코딩입니다.</h3>
 <h4>1. 자신의 fireBase 정보 입력</h4>

@@ -5,7 +5,7 @@
 ./src/fBase.js 에 자신의 FireBase 정보를 ""에 입력하시면 됩니다.
 <br>
 <h4>2. react-router-dom과 firebase version</h4>
-react-router-dom ver: 6.3.0
+react-router-dom ver : 6.3.0
 <br>
 install : npm install react-router-dom@6.3.0
 <br><br>
